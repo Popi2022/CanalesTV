@@ -1,0 +1,15 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id=""Canal26.ar"" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="Canales", Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF: -1 tvg-id="TVPublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Canales", TV Publica - Canal 7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF: -1 tvg-id="DeporTV.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_dxtv_m.png" group-title="Canales", Depor TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
+#EXTINF: -1 tvg-id="AmericaTV.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="Canales", America TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF: -1 tvg-id="eltrecetv.com.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Canales", Canal 13
+https://www.eltrecetv.com.ar/vivo
+#EXTINF: -1 tvg-id="cdn.elsalvadordigital.com" tvg-logo="https://www.blogiko.com/wp-content/uploads/2016/07/wow-tv-300x300.png" group-title="Canales", WOW TV  - El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF: -1 group-title="Canales", Deportes España
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
